@@ -1,0 +1,26 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "오늘 배운 내용, 정리해서 기록하는 공간.\r TIL이자, 나의 레퍼런스.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/live-small/TIL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/live-small/TIL/issues"
+  },
+  "homepage": "https://github.com/live-small/TIL#readme",
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}

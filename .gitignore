@@ -1,3 +1,1 @@
-#테스트 코드 파일 
-*.js 
-*.html
+node_modules/
